@@ -10,9 +10,9 @@ var oyun = [
         "PolatXD Tarafından Yapıldı🔥",
         "+yaratıcı🔥",
         "+destek🔥",
-        "Spam Koruması🔥",
-        "+64 Komut!🔥",
-        "+yaratıcı🔥",
+        "Özel Komut İsterseniz PolatXD#3169 Hesabına DM Atın🔥",
+        "Fiyatlar İçin PolatXD#3169 Hesabına DM Atın🔥",
+        "PolatXD Tarafından Yapıldı🔥",
        //DBL EKLENCEKSENİZ 5000 EN İYİ DEĞİŞİM SÜRESİDİR! EKLEMEK İSTEMİYORSANIZ İDEAL 2500
 
     ];
