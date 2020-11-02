@@ -12,7 +12,7 @@ var oyun = [
         "+destek🔥",
         "Özel Komut İsterseniz PolatXD#3169 Hesabına DM Atın🔥",
         "Fiyatlar İçin PolatXD#3169 Hesabına DM Atın🔥",
-        "PolatXD Tarafından Yapıldı🔥",
+        "https://discord.gg/lastworld🔥",
        //DBL EKLENCEKSENİZ 5000 EN İYİ DEĞİŞİM SÜRESİDİR! EKLEMEK İSTEMİYORSANIZ İDEAL 2500
 
     ];
