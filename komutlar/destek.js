@@ -7,9 +7,7 @@ exports.run = (client, message, args) => {
     const embed = new Discord.RichEmbed()
     .setColor("RANDOM")
     .setAuthor(`${client.user.username} Destek Ekibi !`)
-   .addField(`» Yönetici`, `[ PolatXD ](https://www.instagram.com/polatunser/?hl=tr/)`)//websiteniz yoksa  **|** [Web Sitesi]() yeri silebilirsiniz
-   .addField(`» Yönetici`, `[ berrke ](https://www.instagram.com/beerkesari/?hl=tr/)`)//websiteniz yoksa  **|** [Web Sitesi]() yeri silebilirsiniz
-   .addField(`» Admin`, `[ Enes ](https://www.instagram.com/e.corular7/?hl=tr/)`)//websiteniz yoksa  **|** [Web Sitesi]() yeri silebilirsiniz
+   .addField(`» Yaratıcı`, `[ PolatXD ](https://www.instagram.com/polatunser/?hl=tr/)`)//websiteniz yoksa  **|** [Web Sitesi]() yeri silebilirsiniz
     message.channel.sendEmbed(embed);
 
 };

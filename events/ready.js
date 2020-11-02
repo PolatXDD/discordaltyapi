@@ -7,9 +7,9 @@ var prefix = ayarlar.prefix;
 
 module.exports = client => {
 var oyun = [
-        "+yardım🔥",
         "PolatXD Tarafından Yapıldı🔥",
-        "7/24 Aktif!🔥",
+        "+yaratıcı🔥",
+        "+destek🔥",
         "Spam Koruması🔥",
         "+64 Komut!🔥",
         "+yaratıcı🔥",
